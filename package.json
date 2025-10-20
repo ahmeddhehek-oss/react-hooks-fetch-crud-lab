@@ -24,6 +24,14 @@
     "eject": "react-scripts eject",
     "server": "json-server --watch db.json --port=4000"
   },
+  "jest": {
+    "transformIgnorePatterns": [
+      "node_modules/(?!(?:@adobe/css-tools)/)"
+    ]
+  },
+
+
+
   "eslintConfig": {
     "extends": [
       "react-app",
