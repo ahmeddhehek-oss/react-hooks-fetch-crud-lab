@@ -54,6 +54,17 @@
       ],
       "correctIndex": 0,
       "id": 7
+    },
+    {
+      "prompt": "",
+      "answers": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "correctIndex": 0,
+      "id": 8
     }
   ]
 }
